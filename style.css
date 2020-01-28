@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Rubik', sans-serif;
+}
+.btn{
+	border-radius: 20px;
+}
+
+.Gallery img {
+	transition: all 1s;
+}
+
+.Gallery img:hover {
+	transform: scale(1.1);
+}
